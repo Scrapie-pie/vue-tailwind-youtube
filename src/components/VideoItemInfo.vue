@@ -1,7 +1,7 @@
 <template>
   <div class="flex items-start mt-3">
     <img
-      :src="`https://picsum.photos/seed/avatar${index}/68`"
+      :src="`https://skitterphoto.com/photos/skitterphoto-${1800 + index}-default.jpg`"
       class="mr-3 rounded-full w-9 h-9"
       alt=""
     />

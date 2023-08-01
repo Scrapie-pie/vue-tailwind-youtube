@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <img :src="`https://picsum.photos/seed/image${index}/720/404`" />
+    <img :src="`https://skitterphoto.com/photos/skitterphoto-${1200 + index}-default.jpg`" class="w-full h-[250px]"/>
     <VideoItemThumbnailButton icon="clock" label="Watch later" class="top-0" />
     <VideoItemThumbnailButton
       icon="menuAlt3"
